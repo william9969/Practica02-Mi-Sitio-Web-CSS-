@@ -7,11 +7,7 @@
 * {
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
-
 body {
-    /*background-image: url(../Imagenes/fondot.jpg) ;
-    background-size: cover;
-    background-color: #07153a;*/
     background-color: #080429;
 }
 
@@ -39,6 +35,7 @@ body {
    float: left;
    cursor: pointer;
    font-size: 16px;
+   color: blue;
    padding: 10px;
    width: 40%;
    border-radius: 20px;
